@@ -33,6 +33,6 @@ Vá para o endereço http://localhost:9000/docs/
 ## Authors
 
 * **Patrick Luiz** - *Initial work*
-* **Patrick Luiz** - *Last Update*
+* **Vania Mesquita** - *Last Update*
 
 #### Exemplo de template copiado de: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
